@@ -21,14 +21,14 @@
 			</select>
 			<br>
 			<select name="provincia" id="provincia" required>
-				<option>Provincia</option>
+				<option value="">-- Seleccione su Provincia --</option>
 			</select>
 			<br>
 			<select name="distrito" id="distrito" required>
-				<option>Distrito</option>
+				<option value="">-- Seleccione su Distrito --</option>
 			</select>
 			<br>
-			<input class="btn btn-success col-md-offset-5 col-md-2 col-sm-offset-5 col-sm-2 col-xs-offset-5 col-xs-2" type="submit">
+			<input class="btn btn-success col-md-offset-5 col-md-2 col-sm-offset-4 col-sm-3 col-xs-offset-4 col-xs-3" type="submit">
 		</form>
 	</section>
 </body>
