@@ -9,8 +9,9 @@ body section{
 	left: 0;
 	
 	right: 0;
-	margin: 10%;
+	margin: 7%;
 	border: 1px solid #fff;
+	padding-bottom:20px;
 }
 body section div{
 	margin-left: 40px;
