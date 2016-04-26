@@ -10,12 +10,12 @@
 				<button type="button">MAMÁ</button>
 				<button type="button">QUIERO</button>
 				<button type="button">TE</button>
-				<button type="button">EXTRAÑO</button>
+				<button type="button">VIAJERA</button>
 				<button type="button">MI</button>
-				<button type="button">TODO</button>
-				<button type="button">ERES</button>
+				<!--button type="button">TODO</button>
+				<button type="button">ERES</button-->
 			</div>
-			<input type="text" id="oracion" style="width:350px">
+			<input type="text" id="oracion" style="width:340px">
 			<button type="button" id="clip">Aceptar y Copiar</button>
 		</div>
 	</section>
