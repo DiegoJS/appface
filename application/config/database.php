@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'Jsilvap22';
-$db['default']['database'] = 'appFb';
+$db['default']['hostname'] = 'ec2-54-83-204-159.compute-1.amazonaws.com';
+$db['default']['username'] = 'vgspsgedqkdhkf';
+$db['default']['password'] = 'Q5iEi1ucnNfIGrKnlq-KYYFVNu';
+$db['default']['database'] = 'd2mrdnfe76t8cb';
 $db['default']['dbdriver'] = 'postgre';
 $db['default']['port'] = 5432;
 $db['default']['dbprefix'] = '';
