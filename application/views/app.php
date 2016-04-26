@@ -1,7 +1,7 @@
 <body>
 	<section>
 		<form id="formulario" style="">
-			<center><img src="<?php echo base_url();?>static/img/1.png" class="img-responsive"></center>
+			<center><img src="<?php echo base_url();?>static/img/1.png" height="240" class="img-responsive"></center>
 		</form>
 		<div>
 			<input type="hidden" id="idCli" value="<?php echo $data['idcliente'];?>">
