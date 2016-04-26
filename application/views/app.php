@@ -1,7 +1,7 @@
 <body>
 	<section>
 		<form id="formulario" style="">
-			<img src="<?php echo base_url();?>static/img/1.png" class="img-responsive">
+			<center></center><img src="<?php echo base_url();?>static/img/1.png" class="img-responsive"></center>
 		</form>
 		<div>
 			<input type="hidden" id="idCli" value="<?php echo $data['idcliente'];?>">
@@ -16,7 +16,7 @@
 				<button type="button">ERES</button>
 			</div>
 			<input type="text" id="oracion" style="width:350px">
-			<button type="button" id="clip">Copiar</button>
+			<button type="button" id="clip">Aceptar y Copiar</button>
 		</div>
 	</section>
 </body>
