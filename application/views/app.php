@@ -16,7 +16,7 @@
 				<button type="button">Viajerita</button>
 				<button type="button">Oltursa</button>
 			</div>
-			<input type="text" id="oracion" style="width:340px">
+			<input type="text" id="oracion" style="width:320px">
 			<button type="button" id="clip">Aceptar y Copiar</button>
 		</div>
 	</section>
