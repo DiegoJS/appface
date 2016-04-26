@@ -6,14 +6,15 @@
 		<div>
 			<input type="hidden" id="idCli" value="<?php echo $data['idcliente'];?>">
 			<div id="botones">
-				<button type="button">AMO</button>
-				<button type="button">MAMÁ</button>
-				<button type="button">QUIERO</button>
-				<button type="button">TE</button>
-				<button type="button">VIAJERA</button>
-				<button type="button">MI</button>
-				<!--button type="button">TODO</button>
-				<button type="button">ERES</button-->
+				<button type="button">Mamá</button>
+				<button type="button">Mamita</button>
+				<button type="button">Mami</button>
+				<button type="button">Ma</button>
+				<button type="button">Mamacita</button>
+				<button type="button">Viaje</button>
+				<button type="button">Viajera</button>
+				<button type="button">Viajerita</button>
+				<button type="button">Oltursa</button>
 			</div>
 			<input type="text" id="oracion" style="width:340px">
 			<button type="button" id="clip">Aceptar y Copiar</button>
