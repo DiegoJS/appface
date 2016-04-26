@@ -1,6 +1,7 @@
 <body>
 	<section>
-		<form id="formulario" style="background: url('<?php echo base_url();?>static/img/1.png') no-repeat; background-position: 20px 20px;">
+		<form id="formulario" style="">
+			<img src="<?php echo base_url();?>static/img/1.png')" class="img-responsive">
 		</form>
 		<div>
 			<input type="hidden" id="idCli" value="<?php echo $data['idcliente'];?>">
@@ -14,7 +15,7 @@
 				<button type="button">TODO</button>
 				<button type="button">ERES</button>
 			</div>
-			<input type="text" id="oracion">
+			<input type="text" id="oracion" style="width:350px">
 			<button type="button" id="clip">Copiar</button>
 		</div>
 	</section>
